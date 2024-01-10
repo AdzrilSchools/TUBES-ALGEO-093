@@ -7,11 +7,17 @@ Anggota :
 5. Anisa (10222134)
 
 # Deskripsi
+Projek ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Aljabar Geometri. Tujuan dari projek ini adalah membuat kalkultor matriks dan di rancang untuk membantu memecahkan masalah terkait matriks.
 
-# MEMBUAT KALKULATOR MATRIK
-Pemograman ini dibuat dengan Java dengan hasil output yang memakai terminal, disini kami mengoperasikan Penjumlahan dan Pengurangan Matriks, transpose matriks, Invers, Determinan dan Sistem Persamaan Linear
+# Kalkulator Matriks
+Pemograman ini dibuat dengan Java dengan hasil output yang memakai terminal, memuat hasil yang di antaranya;
+1. Menghitung penjumlahan dan pengurangan matriks (2 x 2)
+2. Menghitung matriks transpose (2 x 2) dan (3x3)
+3. Menghitung matriks balikan (invers) (2 x 2)
+4. Menghitung determinan matriks (2 x 2) dan (3x3)
+5. Menghitung solusi Sistem Persamaan Linier (SPL) (2x3)
 
-# KONSTRIBUSI
+# Kontribusi Pengerjaan
 1. Adzril (Mencari Referensi Pemograman,Membuat Syntax rumus SPL, Menyatukan semua rumus pemograman, Memperbaiki pemograman yang error dari anggota, Membuat Laporan, Membuat Akun Github, Membuat dan menguplod file di Github),
 2. Silva (Merancang projek, Membuat laporan dan Syntak rumus transpose),
 3. Handayani (Membuat laporan dan Syntax Penjumlahan Pengurangan Matriks),
