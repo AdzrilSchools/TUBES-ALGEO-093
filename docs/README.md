@@ -3,12 +3,12 @@ Selamat datang dalam proyek Aljabar Geometri: Matriks dan Sistem Persamaan Linea
 
 ### Fitur pada Proyek
 **==Menu==**
-**1. Penjumlahan dan Pengurangan Matriks**
-**2. Matriks Transpose**
-**3. Matriks Balikan**
-**4. Determinan**
-**5. Sistem Persamaan Linear**
-**0. Keluar**
+1. Penjumlahan dan Pengurangan Matriks
+2. Matriks Transpose
+3. Matriks Balikan
+4. Determinan
+5. Sistem Persamaan Linear
+0. Keluar
 
 ### Manfaat yang Didapat:
 Menghitung secara cepat dengan menginputkan angka
