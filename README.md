@@ -10,7 +10,7 @@ Anggota :
 Projek ini dibuat untuk memenuhi Tugas Besar Mata Kuliah Aljabar Geometri. Tujuan dari projek ini adalah membuat kalkultor matriks dan di rancang untuk membantu memecahkan masalah terkait matriks.
 
 # Kalkulator Matriks
-Pemograman ini dibuat dengan Java dengan hasil output yang memakai terminal, memuat hasil yang di antaranya;
+Pemograman ini dibuat menggunakan Java dengan hasil output yang memakai terminal, memuat hasil yang di antaranya;
 1. Menghitung penjumlahan dan pengurangan matriks (2 x 2)
 2. Menghitung matriks transpose (2 x 2) dan (3x3)
 3. Menghitung matriks balikan (invers) (2 x 2)
